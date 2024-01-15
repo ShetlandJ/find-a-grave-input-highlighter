@@ -1,2 +1,1 @@
-# bayanne-clicker
-# find-a-grave-input-highlighter
+Find A Grave Highlighter is a chrome extension that switches the focussed input box from the lastname box to the first name.
